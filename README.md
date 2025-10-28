@@ -226,3 +226,4 @@ Lukasz - change number 3
 Lukasz - change number 4
 Lukasz - change number 5
 Lukasz - change number 6
+Lukasz - change number 7
