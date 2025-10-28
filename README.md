@@ -223,3 +223,4 @@ gitGraph
 Lukasz - change number 1
 Lukasz - change number 2
 Lukasz - change number 3
+Lukasz - change number 4
