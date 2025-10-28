@@ -218,3 +218,6 @@ gitGraph
 * Bug fixes applied via cherry-picks
 * Breaking changes triggering major releases
 * Clear version isolation using release/* branches
+
+
+Lukasz - change number 1
